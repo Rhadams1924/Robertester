@@ -1,0 +1,14 @@
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/bin/Debug/net7.0/MyApp
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/robertadams/Documents/GitHub/Robertester/MyApp/obj/Debug/net7.0/ref/MyApp.dll
